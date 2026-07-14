@@ -16,12 +16,6 @@ This repository contains introductory Python programming exercises completed in 
 
 ## Projects
 
-### Iterate Using a For Loop
-
-Basic Python iteration using lists and mathematical calculations.
-
-![For Loop](Iterate%20using%20a%20for%20loop.jpeg)
-
 ### Create and Iterate Over Feature Classes
 
 Uses ArcPy to list feature classes and count the number of features in each dataset.
@@ -33,3 +27,9 @@ Uses ArcPy to list feature classes and count the number of features in each data
 Execution of a Python script inside the Python editor showing successful output.
 
 ![Python Output](Run%20a%20script%20in%20a%20Python%20editor.jpeg)
+
+### Iterate Using a For Loop
+
+Basic Python iteration using lists and mathematical calculations.
+
+![For Loop](Iterate%20using%20a%20for%20loop.jpeg)
